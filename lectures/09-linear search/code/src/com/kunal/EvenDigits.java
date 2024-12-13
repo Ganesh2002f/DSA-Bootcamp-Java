@@ -5,7 +5,7 @@ public class EvenDigits {
         int[] nums = {12,345,2,6,7896};
 //        System.out.println(findNumbers(nums));
 
-        System.out.println(digits2(-345678));
+        System.out.println(digits2(-345678)
     }
     static int findNumbers(int[] nums) {
         int count = 0;
